@@ -1,0 +1,21 @@
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\bin\Debug\double_card.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\bin\Debug\double_card.exe
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\bin\Debug\double_card.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\bin\Debug\sfml-audio.dll
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\bin\Debug\sfml-graphics.dll
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\bin\Debug\sfml-learning.dll
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\bin\Debug\sfml-system.dll
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\bin\Debug\sfml-window.dll
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\obj\Debug\double_card.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\obj\Debug\double_card.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\obj\Debug\double_card.csproj.CopyComplete
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\obj\Debug\double_card.exe
+C:\Users\nikit\OneDrive\Рабочий стол\С# Projects\double_card\double_card\obj\Debug\double_card.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\double_card\double_card\bin\Debug\double_card.exe.config
+C:\Users\nikit\OneDrive\Рабочий стол\double_card\double_card\bin\Debug\double_card.exe
+C:\Users\nikit\OneDrive\Рабочий стол\double_card\double_card\bin\Debug\double_card.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\double_card\double_card\obj\Debug\double_card.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\double_card\double_card\obj\Debug\double_card.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\double_card\double_card\obj\Debug\double_card.csproj.CopyComplete
+C:\Users\nikit\OneDrive\Рабочий стол\double_card\double_card\obj\Debug\double_card.exe
+C:\Users\nikit\OneDrive\Рабочий стол\double_card\double_card\obj\Debug\double_card.pdb
